@@ -24,7 +24,7 @@ Este é o meu portfólio pessoal, inspirado no visual nostálgico do Tumblr de 2
 ![image](https://github.com/user-attachments/assets/8d37e8b8-bdb3-4672-8c6e-8539ee4c3b20)
 
 🚀 Deploy
-- O projeto está hospedado em: (https://bianca-takamori.vercel.app/)
+- O projeto está hospedado em: (https://tumblr-portfolio.vercel.app/)
 
 📌 Funcionalidades
 - Layout minimalista e responsivo
